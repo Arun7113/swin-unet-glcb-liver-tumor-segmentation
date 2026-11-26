@@ -1,0 +1,12 @@
+tensorflow>=2.15
+keras>=3.0
+numpy
+pandas
+opencv-python
+nibabel
+matplotlib
+scikit-learn
+tqdm
+git+https://github.com/lucasb-eyer/pydensecrf.git
+# baseline
+nnunetv2
